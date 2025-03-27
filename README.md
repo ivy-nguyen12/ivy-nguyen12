@@ -14,7 +14,7 @@
 
 - [Airline_Reviews_Analysis](https://github.com/ivy-nguyen12/Airline_Reviews_Analysis)  
 
-- [Airline_Customer_Segmentation](https://github.com/ivy-nguyen12/Customer_Segmentation)  
+- [Airline_Customer_Segmentation](https://github.com/ivy-nguyen12/Airline_Customer_Segmentation)  
 
 - [Post_Pandemic_Music_Trend](https://github.com/ivy-nguyen12/Post_Pandemic_Music_Trend)  
 
