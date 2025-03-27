@@ -1,6 +1,6 @@
 <h1 align="center" style="color:cornflowerblue;">Hi there! I'm Vy (Ivy) Nguyen 🐱</h1>
 
-<p>Welcome to my GitHub portfolio! I’m a data-driven problem solver passionate about turning raw data into actionable insights — especially in the fields of Finance, Investment, and Consumer Analytics.</p>
+<p>Welcome to my GitHub portfolio!
 
 ---
 
