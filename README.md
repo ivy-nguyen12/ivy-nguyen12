@@ -6,17 +6,17 @@
 
 ## 📁 Projects
 
-- [Stock_Signal_Prediction](https://github.com/ivy-nguyen12/Stock_Signal_Prediction)
+- [Stock Signal Prediction](https://github.com/ivy-nguyen12/Stock_Signal_Prediction)
   
-- [Heart_Attack_Prediction](https://github.com/ivy-nguyen12/Heart_Attack_Prediction)    
+- [Heart Attack Prediction](https://github.com/ivy-nguyen12/Heart_Attack_Prediction)    
 
-- [Recipe_Review_Sentiment_Analysis](https://github.com/ivy-nguyen12/Recipe_Review_Sentiment_Analysis) 
+- [Recipe Review Sentiment Analysis](https://github.com/ivy-nguyen12/Recipe_Review_Sentiment_Analysis) 
 
-- [Airline_Reviews_Analysis](https://github.com/ivy-nguyen12/Airline_Reviews_Analysis)  
+- [Airline Reviews Analysis](https://github.com/ivy-nguyen12/Airline_Reviews_Analysis)  
 
-- [Airline_Customer_Segmentation](https://github.com/ivy-nguyen12/Airline_Customer_Segmentation)  
+- [Airline Customer Segmentation](https://github.com/ivy-nguyen12/Airline_Customer_Segmentation)  
 
-- [Post_Pandemic_Music_Trend](https://github.com/ivy-nguyen12/Post_Pandemic_Music_Trend)  
+- [Post Pandemic Music Trend](https://github.com/ivy-nguyen12/Post_Pandemic_Music_Trend_Analysis)  
 
 ---
 
