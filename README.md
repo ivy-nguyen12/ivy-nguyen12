@@ -1,34 +1,50 @@
-<h1 align="center" style="color:cornflowerblue;">Hi there! I'm Vy (Ivy) Nguyen 🐱</h1>
+<h1 align="center">Hi there! I'm Vy (Ivy) Nguyen 🐱</h1>
 
-<p>Welcome to my GitHub portfolio!
+<p>Welcome to my GitHub portfolio!</p>
 
 ---
 
-<h2 style="color:cornflowerblue;">😸 About Me</h2>
+## 📁 Projects
 
-I'm currently pursuing my MS in Business Analytics at UC Irvine  
+- [Stock_Signal_Prediction](https://github.com/ivy-nguyen12/Stock_Signal_Prediction)
+  
+- [Heart_Attack_Prediction](https://github.com/ivy-nguyen12/Heart_Attack_Prediction)    
+
+- [Recipe_Review_Sentiment_Analysis](https://github.com/ivy-nguyen12/Recipe_Review_Sentiment_Analysis) 
+
+- [Airline_Reviews_Analysis](https://github.com/ivy-nguyen12/Airline_Reviews_Analysis)  
+
+- [Airline_Customer_Segmentation](https://github.com/ivy-nguyen12/Customer_Segmentation)  
+
+- [Post_Pandemic_Music_Trend](https://github.com/ivy-nguyen12/Post_Pandemic_Music_Trend)  
+
+---
+
+## 😸 About Me
+
+I'm currently pursuing my MS in Business Analytics at UC Irvine.  
 I also hold an MBA in Finance from Gonzaga University and have hands-on experience across finance, analytics, and investment areas.
 
 ---
 
-<h2 style="color:cornflowerblue;">😼 My Specialty</h2>
+## 😼 My Specialty
 
-- Financial analysis & investment research
-- Classification, regression, and clustering   
-- Predictive analytics & time series forecasting 
+- Financial analysis & investment research  
+- Classification, regression, and clustering  
+- Predictive analytics & time series forecasting  
 - Communicating insights through data storytelling  
 
 ---
 
-<h2 style="color:cornflowerblue;">😻 Industry Interests</h2>
+## 😻 Industry Interests
 
 - 📊 Finance & Investment  
 - 🧬 Healthcare  
-- 🛍️ Customer Behavior
+- 🛍️ Customer Behavior  
 
 ---
 
-<h2 style="color:cornflowerblue;">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -46,4 +62,4 @@ I also hold an MBA in Finance from Gonzaga University and have hands-on experien
 
 ---
 
-<p>Thanks for stopping by! Feel free to explore my pinned projects and connect😸
+<p>Thanks for stopping by! Feel free to explore my pinned projects and connect 😸</p>
