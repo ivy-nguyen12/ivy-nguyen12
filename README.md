@@ -6,6 +6,13 @@
 
 ## 📁 Projects
 
+
+### Finance Projects
+- [Financial Modeling – Blu Containers](https://github.com/ivy-nguyen12/Financial_Modeling)
+
+- [Financial Analysis – Netflix](https://github.com/ivy-nguyen12/Financial_Analysis)  
+
+### Data Analytics Projects
 - [Stock Signal Prediction](https://github.com/ivy-nguyen12/Stock_Signal_Prediction)
   
 - [Heart Attack Prediction](https://github.com/ivy-nguyen12/Heart_Attack_Prediction)    
