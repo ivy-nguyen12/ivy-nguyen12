@@ -13,6 +13,8 @@
 - [Financial Analysis – Netflix](https://github.com/ivy-nguyen12/Financial_Analysis)  
 
 ### Data Analytics Projects
+- [Adobe Analytics Challenge 2024 x General Motors - Top 1% Global Semifinalist](https://github.com/ivy-nguyen12/Adobe_Analytics_Challenge_2024)
+  
 - [Stock Signal Prediction](https://github.com/ivy-nguyen12/Stock_Signal_Prediction)
   
 - [Heart Attack Prediction](https://github.com/ivy-nguyen12/Heart_Attack_Prediction)    
